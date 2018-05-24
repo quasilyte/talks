@@ -1,3 +1,0 @@
-| Topic    | Binary size optimizations in Go |
-| Location | Innopolis University            |
-| Date     | May 31, 2018                    |
