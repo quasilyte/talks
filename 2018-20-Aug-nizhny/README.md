@@ -6,4 +6,8 @@
 
 Sub-topics:
 
-- 
+- Why not Go?
+- Go community & getting involved.
+- Go toolchain advantages.
+- Very short language overview.
+- Describing simplicity.
