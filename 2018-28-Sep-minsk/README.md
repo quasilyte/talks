@@ -1,6 +1,6 @@
 ```
 | Topic    | Go Inline Assembler: Dream or Reality |
-| Location | Innopolis University                  |
+| Location | Minsk                                 |
 | Date     | September 28, 2018                    |
 ```
 
