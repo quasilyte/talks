@@ -3,7 +3,3 @@
 | Location | Minsk                                 |
 | Date     | September 28, 2018                    |
 ```
-
-Sub-topics:
-
-TODO: fill sub-topics.
