@@ -16,3 +16,6 @@ Sub-topics:
 - bincmp
 - golangci-lint
 - go-unexport
+- toolstash
+- toolstash-check
+- compilebench
