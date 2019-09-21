@@ -22,6 +22,7 @@ slides from the talks I have given.
 | [VK API from Go](2019-27-Apr-nizhny) | April 27, 2019 | Nizhny Novgorod (Russia) |
 | [NoVerify PHP linter](2019-18-May-moscow) | May 18, 2019 | Moscow (Russia) |
 | [phpgrep: syntax-aware code search](2019-2-Aug-innopolis) | August 2, 2019 | Innopolis (Russia) |
+| [Drawing gophers with Go](2019-Sep-kazan) | September 2, 2019 | Kazan (Russia) |
 
 ## Workshops
 
