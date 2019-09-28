@@ -23,6 +23,7 @@ slides from the talks I have given.
 | [NoVerify PHP linter](2019-18-May-moscow) | May 18, 2019 | Moscow (Russia) |
 | [phpgrep: syntax-aware code search](2019-2-Aug-innopolis) | August 2, 2019 | Innopolis (Russia) |
 | [Drawing gophers with Go](2019-22-Sep-kazan) | September 2, 2019 | Kazan (Russia) |
+| [Finding catastrophic backtracking statically](2019-22-Sep-vladivostok) | September 28, 2019 | Vladivostok (Russia) |
 
 ## Workshops
 
