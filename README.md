@@ -12,7 +12,7 @@ slides from the talks I have given.
 | [Binary size optimizations in Go](2018-31-May-innopolis) | May 31, 2018 | Innopolis (Russia) |
 | [Why Go?](2018-20-Aug-nizhny) | August 20, 2018 | Nizhny Novgorod (Russia) |
 | [Go static analysis](2018-10-Sep-innopolis) | September 10, 2018 | Innopolis (Russia) |
-| [Go Inline Assembler: Dream or Reality](2018-28-Sep-minsk) | September 28, 2018 | Minks (Belarus) |
+| [Go Inline Assembler: Dream or Reality](2018-28-Sep-minsk) | September 28, 2018 | Minsk (Belarus) |
 | [Efficient usage of Go data structures](2018-6-Nov-kazan) | November 6, 2018 | Kazan (Russia) |
 | [Efficient concurrency in Go](2018-8-Nov-kazan) | November 8, 2018 | Kazan (Russia) |
 | [Go inliner: past, present and the future](2018-24-Nov-novosib) | November 24, 2018 | Novosibirsk (Russia) |
