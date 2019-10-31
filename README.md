@@ -20,7 +20,7 @@ slides (and sometimes video) from the talks I have given.
 | [What I love in your open source Go projects](2018-8-Dec-nizhny) | December 8, 2018 | Nizhny Novgorod (Russia) |
 | [Go goodies](2019-5-Jan-kazan) [:movie_camera:](https://www.youtube.com/watch?v=ptCNC9lrg8U&list=PL29DYZAQWb0ITisADDsBiP1Sn9b9WxCe-&index=6) | January 5, 2019 | Kazan (Russia) |
 | [VK API from Go](2019-27-Apr-nizhny) | April 27, 2019 | Nizhny Novgorod (Russia) |
-| [NoVerify PHP linter](2019-18-May-moscow) | May 18, 2019 | Moscow (Russia) |
+| [NoVerify PHP linter](2019-18-May-moscow) [:movie_camera:](https://www.youtube.com/watch?v=FQijPdVAnQw) | May 18, 2019 | Moscow (Russia) |
 | [phpgrep: syntax-aware code search](2019-2-Aug-innopolis) [:movie_camera:](https://www.youtube.com/watch?v=34Rk4uLPn1A) | August 2, 2019 | Innopolis (Russia) |
 | [Drawing gophers with Go](2019-22-Sep-kazan) | September 2, 2019 | Kazan (Russia) |
 | [Finding catastrophic backtracking statically](2019-22-Sep-vladivostok) | September 28, 2019 | Vladivostok (Russia) |
