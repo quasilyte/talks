@@ -21,7 +21,7 @@ slides from the talks I have given.
 | [Go goodies](2019-5-Jan-kazan) | January 5, 2019 | Kazan (Russia) |
 | [VK API from Go](2019-27-Apr-nizhny) | April 27, 2019 | Nizhny Novgorod (Russia) |
 | [NoVerify PHP linter](2019-18-May-moscow) | May 18, 2019 | Moscow (Russia) |
-| [phpgrep: syntax-aware code search](2019-2-Aug-innopolis) | August 2, 2019 | Innopolis (Russia) |
+| [phpgrep: syntax-aware code search](2019-2-Aug-innopolis) [:movie_camera:](https://www.youtube.com/watch?v=34Rk4uLPn1A) | August 2, 2019 | Innopolis (Russia) |
 | [Drawing gophers with Go](2019-22-Sep-kazan) | September 2, 2019 | Kazan (Russia) |
 | [Finding catastrophic backtracking statically](2019-22-Sep-vladivostok) | September 28, 2019 | Vladivostok (Russia) |
 | [Applied Go code similarity analysis](2019-7-Oct-moscow) | October 9, 2019 | Moscow (Russia) |
