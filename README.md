@@ -13,7 +13,7 @@ slides from the talks I have given.
 | [Why Go?](2018-20-Aug-nizhny) | August 20, 2018 | Nizhny Novgorod (Russia) |
 | [Go static analysis](2018-10-Sep-innopolis) | September 10, 2018 | Innopolis (Russia) |
 | [Go Inline Assembler: Dream or Reality](2018-28-Sep-minsk) [:movie_camera:](https://www.youtube.com/watch?v=d_Vm05OaQYQ&list=PLpVeA1tdgfCD7CRJ49gsRfwZPr9w-kS0O&index=4) | September 28, 2018 | Minsk (Belarus) |
-| [Efficient usage of Go data structures](2018-6-Nov-kazan) | November 6, 2018 | Kazan (Russia) |
+| [Efficient usage of Go data structures](2018-6-Nov-kazan) [:movie_camera:](https://www.youtube.com/watch?v=kClQ7rM5uBY) | November 6, 2018 | Kazan (Russia) |
 | [Efficient concurrency in Go](2018-8-Nov-kazan) | November 8, 2018 | Kazan (Russia) |
 | [Go inliner: past, present and the future](2018-24-Nov-novosib) | November 24, 2018 | Novosibirsk (Russia) |
 | [We need to rewrite everything in Go!](2018-2-Dec-kazan) | December 2, 2018 | Kazan (Russia) |
