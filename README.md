@@ -10,7 +10,7 @@ slides (and sometimes video) from the talks I have given.
 | Topic | Date | Location |
 |---|---|---|
 | [Binary size optimizations in Go](2018-31-May-innopolis) | May 31, 2018 | Innopolis (Russia) |
-| [Why Go?](2018-20-Aug-nizhny) | August 20, 2018 | Nizhny Novgorod (Russia) |
+| [Why Go?](2018-20-Aug-nizhny) [:movie_camera:](https://www.youtube.com/watch?v=eRgWQOUvm8Y) | August 20, 2018 | Nizhny Novgorod (Russia) |
 | [Go static analysis](2018-10-Sep-innopolis) | September 10, 2018 | Innopolis (Russia) |
 | [Go Inline Assembler: Dream or Reality](2018-28-Sep-minsk) [:movie_camera:](https://www.youtube.com/watch?v=d_Vm05OaQYQ) | September 28, 2018 | Minsk (Belarus) |
 | [Efficient usage of Go data structures](2018-6-Nov-kazan) [:movie_camera:](https://www.youtube.com/watch?v=kClQ7rM5uBY) | November 6, 2018 | Kazan (Russia) |
