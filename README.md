@@ -24,7 +24,7 @@ slides (and sometimes video) from the talks I have given.
 | [phpgrep: syntax-aware code search](2019-2-Aug-innopolis) [:movie_camera:](https://www.youtube.com/watch?v=34Rk4uLPn1A) | August 2, 2019 | Innopolis (Russia) |
 | [Drawing gophers with Go](2019-22-Sep-kazan) | September 2, 2019 | Kazan (Russia) |
 | [Finding catastrophic backtracking statically](2019-22-Sep-vladivostok) | September 28, 2019 | Vladivostok (Russia) |
-| [Applied Go code similarity analysis](2019-7-Oct-moscow) | October 9, 2019 | Moscow (Russia) |
+| [Applied Go code similarity analysis](2019-7-Oct-moscow) [:movie_camera:](https://www.youtube.com/watch?v=WQB7pVtOFzw) | October 9, 2019 | Moscow (Russia) |
 
 ## Workshops
 
