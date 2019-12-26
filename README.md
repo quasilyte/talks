@@ -61,7 +61,7 @@
 | Topic | Date |
 |---|---|
 | [Step driven evaluation](https://quasilyte.dev/blog/post/step-pattern/) | February 27, 2019 |
-| [log.Fatal vs log.Panic](log.Fatal vs log.Panic) | January 8, 2019 |
+| [log.Fatal vs log.Panic](https://quasilyte.dev/blog/post/log-fatal-vs-log-panic/) | January 8, 2019 |
 | [Go compiler: SSA optimization rules description language](https://quasilyte.dev/blog/post/go_ssa_rules/) | June 30, 2018 |
 | [Go AVX-512 support](https://quasilyte.dev/blog/post/go-avx512/) | June 8, 2018 |
 | [Disassembling Go AVX-512](https://quasilyte.dev/blog/post/disassembling-go-avx512/) | June 8, 2018 |
