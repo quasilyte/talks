@@ -36,6 +36,23 @@ My slides for public talks, workshop materials plus articles in both English and
 
 ## Articles
 
+### https://quasilyte.dev/blog (eng)
+
+| Topic | Date |
+|---|---|
+| [Step driven evaluation](https://quasilyte.dev/blog/post/step-pattern/) | February 27, 2019 |
+| [log.Fatal vs log.Panic](https://quasilyte.dev/blog/post/log-fatal-vs-log-panic/) | January 8, 2019 |
+| [Go compiler: SSA optimization rules description language](https://quasilyte.dev/blog/post/go_ssa_rules/) | June 30, 2018 |
+| [Go AVX-512 support](https://quasilyte.dev/blog/post/go-avx512/) | June 8, 2018 |
+| [Disassembling Go AVX-512](https://quasilyte.dev/blog/post/disassembling-go-avx512/) | June 8, 2018 |
+| [Dispatch tables in Go asm](https://quasilyte.dev/blog/post/go-asm-dispatch-tables/) | May 31, 2018 |
+| [Goism objects layout model](https://quasilyte.dev/blog/post/goism-objects-layout-mode/) | January 14, 2018 |
+| [Writing Emacs Lisp compiler intrinsics](https://quasilyte.dev/blog/post/writing-emacs-lisp-compiler-intrinsics/) | September 23, 2017 |
+| [Go assembly language complementary reference](https://quasilyte.dev/blog/post/go-asm-complementary-reference/) | September 20, 2017 |
+| [Go nested functions and static locals](https://quasilyte.dev/blog/post/go-nested-functions-and-static-locals/) | September 18, 2017 |
+| [RISC-V: custom instruction and its simulation](https://quasilyte.dev/blog/post/riscv32-custom-instruction-and-its-simulation/) | June 21, 2017 |
+| [Emacs Lisp multi return values](https://quasilyte.dev/blog/post/elisp-multi-return-values/) | May 19, 2017 |
+
 ### https://habr.com (rus)
 
 | Topic | Date |
@@ -57,20 +74,3 @@ My slides for public talks, workshop materials plus articles in both English and
 | [Go 1.11: AVX-512 со вкусом Go](https://habr.com/ru/post/359132/) | June 8, 2018 |
 | [GCCGO против «стандартной» реализации](https://habr.com/ru/company/intel/blog/348230/) | February 20, 2018 |
 | [Альтернатива Emacs Lisp'у](https://habr.com/ru/post/331134/) | June 18, 2017 |
-
-### https://quasilyte.dev/blog (eng)
-
-| Topic | Date |
-|---|---|
-| [Step driven evaluation](https://quasilyte.dev/blog/post/step-pattern/) | February 27, 2019 |
-| [log.Fatal vs log.Panic](https://quasilyte.dev/blog/post/log-fatal-vs-log-panic/) | January 8, 2019 |
-| [Go compiler: SSA optimization rules description language](https://quasilyte.dev/blog/post/go_ssa_rules/) | June 30, 2018 |
-| [Go AVX-512 support](https://quasilyte.dev/blog/post/go-avx512/) | June 8, 2018 |
-| [Disassembling Go AVX-512](https://quasilyte.dev/blog/post/disassembling-go-avx512/) | June 8, 2018 |
-| [Dispatch tables in Go asm](https://quasilyte.dev/blog/post/go-asm-dispatch-tables/) | May 31, 2018 |
-| [Goism objects layout model](https://quasilyte.dev/blog/post/goism-objects-layout-mode/) | January 14, 2018 |
-| [Writing Emacs Lisp compiler intrinsics](https://quasilyte.dev/blog/post/writing-emacs-lisp-compiler-intrinsics/) | September 23, 2017 |
-| [Go assembly language complementary reference](https://quasilyte.dev/blog/post/go-asm-complementary-reference/) | September 20, 2017 |
-| [Go nested functions and static locals](https://quasilyte.dev/blog/post/go-nested-functions-and-static-locals/) | September 18, 2017 |
-| [RISC-V: custom instruction and its simulation](https://quasilyte.dev/blog/post/riscv32-custom-instruction-and-its-simulation/) | June 21, 2017 |
-| [Emacs Lisp multi return values](https://quasilyte.dev/blog/post/elisp-multi-return-values/) | May 19, 2017 |
