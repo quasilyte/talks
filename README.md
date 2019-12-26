@@ -50,8 +50,10 @@ My slides for public talks, workshop materials plus articles in both English and
 | [Writing Emacs Lisp compiler intrinsics](https://quasilyte.dev/blog/post/writing-emacs-lisp-compiler-intrinsics/) | September 23, 2017 |
 | [Go assembly language complementary reference](https://quasilyte.dev/blog/post/go-asm-complementary-reference/) | September 20, 2017 |
 | [Go nested functions and static locals](https://quasilyte.dev/blog/post/go-nested-functions-and-static-locals/) | September 18, 2017 |
+| [Path to convenient C FFI in Go](https://quasilyte.dev/blog/post/cgo-funcall/) | August 18, 2017 |
 | [RISC-V: custom instruction and its simulation](https://quasilyte.dev/blog/post/riscv32-custom-instruction-and-its-simulation/) | June 21, 2017 |
 | [Emacs Lisp multi return values](https://quasilyte.dev/blog/post/elisp-multi-return-values/) | May 19, 2017 |
+| [C broken defaults](https://quasilyte.dev/blog/post/c-broken-defaults/) | December 26, 2016 |
 
 ### https://habr.com (rus)
 
