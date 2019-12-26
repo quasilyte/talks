@@ -1,8 +1,5 @@
 # quasilyte talks
 
-Hi, my name is Iskander (you can call me Alex), and this repository contains
-slides (and sometimes video) from the talks I have given.
-
 # Navigation
 
 ## Meetup/Conference talks
@@ -34,3 +31,25 @@ slides (and sometimes video) from the talks I have given.
 | [Hacktoberfest-2018](2018-13-Oct-innopolis) | October 13, 2018 | Innopolis (Russia) |
 | [Go contributors workshop](2018-23-Nov-novosib) | November 23, 2018 | Novosibirsk (Russia) |
 | [Go contributors workshop](2019-13-Apr-moscow) | April 13, 2019 | Moscow (Russia) |
+
+## Articles
+
+| Topic | Date |
+|---|---|
+| [ruleguard: динамические проверки для Go](https://habr.com/ru/post/481696/) | December 26, 2019 |
+| [Как добавить проверки в NoVerify, не написав ни строчки Go-кода](https://habr.com/ru/company/vk/blog/473718/) | November 7, 2019 |
+| [Ищем баги в PHP коде без статических анализаторов](https://habr.com/ru/post/464893/) | August 26, 2019 |
+| [Дефективное встраивание функций в Go](https://habr.com/ru/post/438636/) | February 5, 2019 |
+| [Сообщество Go в Казани и наши митапы](https://habr.com/ru/post/433916/) | December 21, 2018 |
+| [Путешествие gocritic'а в прошлое](https://habr.com/ru/post/432848/) | December 11, 2018 |
+| [Go lintpack: менеджер компонуемых линтеров](https://habr.com/ru/post/430196/) | November 17, 2018 |
+| [Контроль консистентности кода в Go](https://habr.com/ru/post/429354/) | November 10, 2018 |
+| [bytes.Buffer в Go: оптимизации, которые не работают](https://habr.com/ru/company/intel/blog/422447/) | September 6, 2018 |
+| [Ускорение конкатенации строк в Go своими руками](https://habr.com/ru/post/417479/) | July 18, 2018 |
+| [Контрибьютим в Go с помощью статического анализатора go-critic](https://habr.com/ru/post/416903/) | July 12, 2018 |
+| [Компилятор Go: язык описания правил SSA оптимизаций](https://habr.com/ru/post/415771/) | June 30, 2018 |
+| [go-critic: самый упрямый статический анализатор для Go](https://habr.com/ru/post/414739/) | June 21, 2018 |
+| [Go contribution workshop в России](https://habr.com/ru/post/413815/) | June 11, 2018 |
+| [Go 1.11: AVX-512 со вкусом Go](https://habr.com/ru/post/359132/) | June 8, 2018 |
+| [GCCGO против «стандартной» реализации](https://habr.com/ru/company/intel/blog/348230/) | February 20, 2018 |
+| [Альтернатива Emacs Lisp'у](https://habr.com/ru/post/331134/) | June 18, 2017 |
