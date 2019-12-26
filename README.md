@@ -1,5 +1,7 @@
 # quasilyte talks
 
+My slides for public talks, workshop materials plus articles in both English and Russian.
+
 # Navigation
 
 ## Meetup/Conference talks
