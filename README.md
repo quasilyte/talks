@@ -59,6 +59,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date |
 |---|---|
+| [ELFийские трюки в Go](https://habr.com/ru/post/482392/) | December 29, 2019 |
 | [ruleguard: динамические проверки для Go](https://habr.com/ru/post/481696/) | December 26, 2019 |
 | [Как добавить проверки в NoVerify, не написав ни строчки Go-кода](https://habr.com/ru/company/vk/blog/473718/) | November 7, 2019 |
 | [Ищем баги в PHP коде без статических анализаторов](https://habr.com/ru/post/464893/) | August 26, 2019 |
