@@ -40,6 +40,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date |
 |---|---|
+| [ruleguard: dynamic inspection rules for Go](https://quasilyte.dev/blog/post/ruleguard/) | January 9, 2020 |
 | [Step driven evaluation](https://quasilyte.dev/blog/post/step-pattern/) | February 27, 2019 |
 | [log.Fatal vs log.Panic](https://quasilyte.dev/blog/post/log-fatal-vs-log-panic/) | January 8, 2019 |
 | [Go compiler: SSA optimization rules description language](https://quasilyte.dev/blog/post/go_ssa_rules/) | June 30, 2018 |
