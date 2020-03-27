@@ -40,6 +40,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date |
 |---|---|
+| [Let's Go write Pratt parsers!](https://quasilyte.dev/blog/post/pratt-parsers-go/) | March 27, 2020 |
 | [ruleguard: dynamic inspection rules for Go](https://quasilyte.dev/blog/post/ruleguard/) | January 9, 2020 |
 | [Step driven evaluation](https://quasilyte.dev/blog/post/step-pattern/) | February 27, 2019 |
 | [log.Fatal vs log.Panic](https://quasilyte.dev/blog/post/log-fatal-vs-log-panic/) | January 8, 2019 |
