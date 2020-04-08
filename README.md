@@ -22,7 +22,7 @@ My slides for public talks, workshop materials plus articles in both English and
 | [NoVerify PHP linter](2019-18-May-moscow) [:movie_camera:](https://www.youtube.com/watch?v=FQijPdVAnQw) | May 18, 2019 | Moscow (Russia) |
 | [phpgrep: syntax-aware code search](2019-2-Aug-innopolis) [:movie_camera:](https://www.youtube.com/watch?v=34Rk4uLPn1A) | August 2, 2019 | Innopolis (Russia) |
 | [Drawing gophers with Go](2019-22-Sep-kazan) | September 2, 2019 | Kazan (Russia) |
-| [Finding catastrophic backtracking statically](2019-28-Sep-vladivostok) | September 28, 2019 | Vladivostok (Russia) |
+| [Finding catastrophic backtracking statically](2019-28-Sep-vladivostok) [:movie_camera:](https://www.youtube.com/watch?v=xH2ClIIGN94) | September 28, 2019 | Vladivostok (Russia) |
 | [Applied Go code similarity analysis](2019-7-Oct-moscow) [:movie_camera:](https://www.youtube.com/watch?v=WQB7pVtOFzw) | October 9, 2019 | Moscow (Russia) |
 | [The Missing Static Type Ballad](2019-7-Dec-yoshkarola) [:movie_camera:](https://www.youtube.com/watch?v=9cbuXRWR1_g) | December 7, 2019 | Yoshkar-Old (Russia) |
 
