@@ -8,9 +8,9 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date | Location |
 |---|---|---|
-| [Binary size optimizations in Go](2018-31-May-innopolis) | May 31, 2018 | Innopolis (Russia) |
+| [Binary size optimizations in Go](2018-31-May-innopolis) [:movie_camera:](https://www.youtube.com/watch?v=HpriPuIfrGE) | May 31, 2018 | Innopolis (Russia) |
 | [Why Go?](2018-20-Aug-nizhny) [:movie_camera:](https://www.youtube.com/watch?v=eRgWQOUvm8Y) | August 20, 2018 | Nizhny Novgorod (Russia) |
-| [Go static analysis](2018-10-Sep-innopolis) | September 10, 2018 | Innopolis (Russia) |
+| [Go static analysis](2018-10-Sep-innopolis) [:movie_camera:](https://www.youtube.com/watch?v=6SDk8ibowW4) | September 10, 2018 | Innopolis (Russia) |
 | [Go Inline Assembler: Dream or Reality](2018-28-Sep-minsk) [:movie_camera:](https://www.youtube.com/watch?v=d_Vm05OaQYQ) | September 28, 2018 | Minsk (Belarus) |
 | [Efficient usage of Go data structures](2018-6-Nov-kazan) [:movie_camera:](https://www.youtube.com/watch?v=kClQ7rM5uBY) | November 6, 2018 | Kazan (Russia) |
 | [Efficient concurrency in Go](2018-8-Nov-kazan) [:movie_camera:](https://www.youtube.com/watch?v=o4vd-lMRI54) | November 8, 2018 | Kazan (Russia) |
@@ -24,7 +24,7 @@ My slides for public talks, workshop materials plus articles in both English and
 | [Drawing gophers with Go](2019-22-Sep-kazan) | September 2, 2019 | Kazan (Russia) |
 | [Finding catastrophic backtracking statically](2019-28-Sep-vladivostok) | September 28, 2019 | Vladivostok (Russia) |
 | [Applied Go code similarity analysis](2019-7-Oct-moscow) [:movie_camera:](https://www.youtube.com/watch?v=WQB7pVtOFzw) | October 9, 2019 | Moscow (Russia) |
-| [The Missing Static Type Ballad](2019-7-Dec-yoshkarola) | December 7, 2019 | Yoshkar-Old (Russia) |
+| [The Missing Static Type Ballad](2019-7-Dec-yoshkarola) [:movie_camera:](https://www.youtube.com/watch?v=9cbuXRWR1_g) | December 7, 2019 | Yoshkar-Old (Russia) |
 
 ## Workshops
 
