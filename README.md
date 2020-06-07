@@ -62,6 +62,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date |
 |---|---|
+| [gogrep: структурный поиск и замена Go кода](https://habr.com/ru/post/505652/) | June 7, 2020 |
 | [Парсеры Пратта для чайников](https://habr.com/ru/post/494316/) | March 27, 2020 |
 | [Что нужно знать, если вы хотите вызывать Go функции из ассемблера](https://habr.com/ru/post/489482/) | February 22, 2020 |
 | [ELFийские трюки в Go](https://habr.com/ru/post/482392/) | December 29, 2019 |
