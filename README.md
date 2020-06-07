@@ -59,7 +59,7 @@ My slides for public talks, workshop materials plus articles in both English and
 | [Emacs Lisp multi return values](https://quasilyte.dev/blog/post/elisp-multi-return-values/) | May 19, 2017 |
 | [C broken defaults](https://quasilyte.dev/blog/post/c-broken-defaults/) | December 26, 2016 |
 
-### [habr.com](https://habr.com/ru/users/quasilyte/posts/( (rus)
+### [habr.com](https://habr.com/ru/users/quasilyte/posts/) (rus)
 
 | Topic | Date |
 |---|---|
