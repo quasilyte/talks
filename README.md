@@ -63,6 +63,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date |
 |---|---|
+| [Статический анализ: baseline файлы vs diff](https://habr.com/ru/post/508094/) | June 25, 2020 |
 | [gogrep: структурный поиск и замена Go кода](https://habr.com/ru/post/505652/) | June 7, 2020 |
 | [Парсеры Пратта для чайников](https://habr.com/ru/post/494316/) | March 27, 2020 |
 | [Что нужно знать, если вы хотите вызывать Go функции из ассемблера](https://habr.com/ru/post/489482/) | February 22, 2020 |
