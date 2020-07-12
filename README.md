@@ -26,7 +26,7 @@ My slides for public talks, workshop materials plus articles in both English and
 | [Applied Go code similarity analysis](2019-7-Oct-moscow) [:movie_camera:](https://www.youtube.com/watch?v=WQB7pVtOFzw) | October 9, 2019 | Moscow (Russia) |
 | [The Missing Static Type Ballad](2019-7-Dec-yoshkarola) [:movie_camera:](https://www.youtube.com/watch?v=9cbuXRWR1_g) | December 7, 2019 | Yoshkar-Old (Russia) |
 | [How to do regexp analysis](2020-25-Apr-online) | April 25, 2020 | Online (Russia) |
-| [Efficient VM with JIT in Go](2020-12-July-online) | July 12, 2020 | Online (International) |
+| [Efficient VM with JIT in Go](2020-11-July-online) | July 12, 2020 | Online (International) |
 
 ## Workshops
 
