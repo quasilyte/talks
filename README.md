@@ -42,6 +42,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date |
 |---|---|
+| [YAML is your JSON5](https://quasilyte.dev/blog/post/yaml5/) | September 10, 2020 |
 | [gogrep: structural search and replace](https://quasilyte.dev/blog/post/gogrep/) | June 8, 2020 |
 | [Let's Go write Pratt parsers!](https://quasilyte.dev/blog/post/pratt-parsers-go/) | March 27, 2020 |
 | [ruleguard: dynamic inspection rules for Go](https://quasilyte.dev/blog/post/ruleguard/) | January 9, 2020 |
