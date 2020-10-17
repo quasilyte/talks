@@ -27,6 +27,7 @@ My slides for public talks, workshop materials plus articles in both English and
 | [The Missing Static Type Ballad](2019-7-Dec-yoshkarola) [:movie_camera:](https://www.youtube.com/watch?v=9cbuXRWR1_g) | December 7, 2019 | Yoshkar-Old (Russia) |
 | [How to do regexp analysis](2020-25-Apr-online) [:movie_camera:](https://www.youtube.com/watch?v=PO9A082Nqsk) | April 25, 2020 | Online (Russia) |
 | [Efficient VM with JIT in Go](2020-11-Jul-online) | July 12, 2020 | Online (International) |
+| [Ruleguard vs Semgrep vs CodeQL](2020-17-Oct-online) | October 17, 2020 | Online (Russial) |
 
 ## Workshops
 
