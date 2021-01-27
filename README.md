@@ -40,7 +40,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 ## Articles
 
-### [quasilyte.dev](https://quasilyte.dev/blog) (eng)
+### [quasilyte.dev/blog](https://quasilyte.dev/blog) (eng)
 
 | Topic | Date |
 |---|---|
