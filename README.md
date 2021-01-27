@@ -67,6 +67,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date |
 |---|---|
+| [Релиз ruleguard v0.3.0](https://habr.com/ru/post/538930/) | January 27, 2021 |
 | [Статический анализ: baseline файлы vs diff](https://habr.com/ru/post/508094/) | June 25, 2020 |
 | [gogrep: структурный поиск и замена Go кода](https://habr.com/ru/post/505652/) | June 7, 2020 |
 | [Парсеры Пратта для чайников](https://habr.com/ru/post/494316/) | March 27, 2020 |
