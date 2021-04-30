@@ -37,6 +37,7 @@ My slides for public talks, workshop materials plus articles in both English and
 | [Hacktoberfest-2018](2018-13-Oct-innopolis) | October 13, 2018 | Innopolis (Russia) |
 | [Go contributors workshop](2018-23-Nov-novosib) | November 23, 2018 | Novosibirsk (Russia) |
 | [Go contributors workshop](2019-13-Apr-moscow) | April 13, 2019 | Moscow (Russia) |
+| [Ruleguard workshop](2021-24-Apr-online) [:movie_camera:](https://www.youtube.com/watch?v=wZMgZNtKCm0&list=PLAjl-3QkinHvbgBKtIwlD2j3qqZ7iNOhE&index=2) |  April 24, 2021 | Online (Russia) |
 
 ## Articles
 
