@@ -8,6 +8,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date | Location |
 |---|---|---|
+| [KPHP for CLI](2021-15-May-kazan) [:movie_camera:](https://youtu.be/nr1883za8tM?t=247) | May 15, 2020 | Kazan (Russia) |
 | [PHP Code -> Linter rules](2020-24-Oct-online) [:movie_camera:](https://www.youtube.com/watch?v=wHebTmcHZgY) | October 24, 2020 | Online (Russia) |
 | [Ruleguard vs Semgrep vs CodeQL](2020-17-Oct-online) [:movie_camera:](https://www.youtube.com/watch?v=wCCeQC_A6b4) | October 17, 2020 | Online (Russian) |
 | [Efficient VM with JIT in Go](2020-11-Jul-online) | July 12, 2020 | Online (International) |
