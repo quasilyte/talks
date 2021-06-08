@@ -4,6 +4,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 # Navigation
 
+
 ## Meetup/Conference talks
 
 | Topic | Date | Location |
