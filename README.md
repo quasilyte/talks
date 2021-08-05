@@ -9,6 +9,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date | Location |
 |---|---|---|
+| [Parsing and Go](2021-5-Aug-online) | Aug 5, 2021 | Online (Russia) |
 | [Deterministic performance tests](2021-29-May-online) [:movie_camera:](https://www.youtube.com/watch?v=ghri4bz_ybQ) | May 29, 2021 | Online (Russia) |
 | [KPHP for CLI](2021-15-May-kazan) [:movie_camera:](https://youtu.be/nr1883za8tM?t=247) | May 15, 2021 | Kazan (Russia) |
 | [PHP Code -> Linter rules](2020-24-Oct-online) [:movie_camera:](https://www.youtube.com/watch?v=wHebTmcHZgY) | October 24, 2020 | Online (Russia) |
