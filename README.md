@@ -9,6 +9,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date | Location |
 |---|---|---|
+| [KPHP FFI](talks/2021-14-Nov-innopolis) | Nov 14, 2021 | Innopolis (Russia) |
 | [Parsing and Go](talks/2021-5-Aug-online) | Aug 5, 2021 | Online (Russia) |
 | [Deterministic performance tests](talks/2021-29-May-online) [:movie_camera:](https://www.youtube.com/watch?v=ghri4bz_ybQ) | May 29, 2021 | Online (Russia) |
 | [KPHP for CLI](talks/2021-15-May-kazan) [:movie_camera:](https://youtu.be/nr1883za8tM?t=247) | May 15, 2021 | Kazan (Russia) |
