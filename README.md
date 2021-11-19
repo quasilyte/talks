@@ -73,6 +73,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date |
 |---|---|
+| [Создаём игру на KPHP с помощью FFI и SDL](TODO) | November 19, 2021 |
 | [Заметки KPHP: тестирование и бенчмарки](https://habr.com/ru/company/vk/blog/572424/) | August 24, 2021 |
 | [Релиз ruleguard v0.3.0](https://habr.com/ru/post/538930/) | January 27, 2021 |
 | [Статический анализ: baseline файлы vs diff](https://habr.com/ru/post/508094/) | June 25, 2020 |
