@@ -73,6 +73,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date |
 |---|---|
+| [profile-guided поиск по коду](https://habr.com/ru/post/596755/) | December 21, 2021 |
 | [gocorpus: открытый корпус Go кода, поддерживающий запросы](https://habr.com/ru/post/593349/) | December 3, 2021 |
 | [Создаём игру на KPHP с помощью FFI и SDL](https://habr.com/ru/company/vk/blog/581238/) | November 19, 2021 |
 | [Заметки KPHP: тестирование и бенчмарки](https://habr.com/ru/company/vk/blog/572424/) | August 24, 2021 |
