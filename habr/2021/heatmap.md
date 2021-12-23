@@ -70,8 +70,119 @@ go install github.com/quasilyte/perf-heatmap/cmd/perf-heatmap@latest
 Все размеченные семплы (topN%) считаются горячими, разница лишь в их рейтинге (heat level от 1 до 5 включительно). Каждая строка имеет два уровня: локальный (по файлу) и глобальный (по всей программе). Чаще всего нас интересует именно глобальный уровень. Локальный уровень полезен при просмотре файла в редакторе, чтобы просто оценить какие куски кода более горячие относительно остальных в этом же файле.
 
 ```bash
-perf-heatmap stat -filename buffer.go cpu.out
+$ perf-heatmap stat -filename buffer.go cpu.out
+  func bytes.(Buffer).Write ($GOROOT/src/bytes/buffer.go):
+    line  168:   0.34s L=0 G=3
+    line  170:   0.56s L=4 G=3
+    line  172:   0.44s L=0 G=3
+    line  174:   3.97s L=5 G=5
+  func bytes.(Buffer).Grow ($GOROOT/src/bytes/buffer.go):
+    line  161:   0.11s L=5 G=1
+  func bytes.(Buffer).Read ($GOROOT/src/bytes/buffer.go):
+    line  298:   0.05s L=0 G=0
+    line  299:   0.25s L=4 G=2
+    line  307:   3.34s L=5 G=5
+    line  308:   0.06s L=0 G=1
+    line  309:   0.18s L=3 G=2
+    line  310:   0.14s L=0 G=2
+  func bytes.(Buffer).grow ($GOROOT/src/bytes/buffer.go):
+    line  117:   0.04s L=0 G=0
+    line  118:   0.01s L=0 G=0
+    line  120:   0.04s L=2 G=0
+    line  128:   0.01s L=0 G=0
+    line  132:   0.01s L=0 G=0
+    line  137:   0.19s L=5 G=2
+    line  142:   0.16s L=4 G=2
+    line  143:   0.05s L=3 G=0
+    line  148:   0.01s L=0 G=0
+  func bytes.(Buffer).tryGrowByReslice ($GOROOT/src/bytes/buffer.go):
+    line  107:   1.26s L=5 G=4
+    line  108:   0.27s L=0 G=2
+  func bytes.makeSlice ($GOROOT/src/bytes/buffer.go):
+    line  229:   0.16s L=5 G=2
+  func bytes.(Buffer).empty ($GOROOT/src/bytes/buffer.go):
+    line   69:   0.25s L=5 G=2
+  func bytes.(Buffer).WriteByte ($GOROOT/src/bytes/buffer.go):
+    line  263:   0.66s L=0 G=4
+    line  265:   0.88s L=4 G=4
+    line  269:   1.11s L=5 G=4
+    line  270:   0.86s L=0 G=4
+  func bytes.(Buffer).readSlice ($GOROOT/src/bytes/buffer.go):
+    line  418:   0.05s L=0 G=0
+    line  419:   0.97s L=5 G=4
+    line  420:   0.01s L=0 G=0
+  func bytes.(Buffer).Len ($GOROOT/src/bytes/buffer.go):
+    line   73:   0.01s L=5 G=0
+  func bytes.(Buffer).ReadString ($GOROOT/src/bytes/buffer.go):
+    line  438:   1.03s L=0 G=4
+    line  439:   3.30s L=5 G=5
+  func bytes.(Buffer).WriteRune ($GOROOT/src/bytes/buffer.go):
+    line  277:   0.25s L=0 G=2
+    line  283:   0.22s L=0 G=2
+    line  284:   0.36s L=3 G=3
+    line  288:   2.51s L=5 G=4
+    line  289:   0.54s L=4 G=3
+    line  290:   0.17s L=0 G=2
+  func bytes.(Buffer).String ($GOROOT/src/bytes/buffer.go):
+    line   65:   0.04s L=5 G=0
 ```
+
+* `L` - локальный уровень
+* `G` - глобальный уровень
+
+## heat levels на примере
+
+Допустим, у нас есть следующий набор семплов:
+
+| file | line | value |
+|---|---|---|
+| `a.go` | `10` | `100` |
+| `a.go` | `10` | `200` |
+| `a.go` | `13` | `200` |
+| `b.go` | `40` | `100` |
+| `b.go` | `40` | `300` |
+| `b.go` | `40` | `400` |
+| `b.go` | `49` | `100` |
+| `b.go` | `49` | `100` |
+| `b.go` | `50` | `500` |
+| `b.go` | `51` | `100` |
+
+Первый шаг - просуммировать все value для каждой строки. В настоящий CPU профилях value может хранить время в наносекундах. В нашем примере это абстрактные величины.
+
+| file | line | total value |
+|---|---|---|
+| `a.go` | `10` | `300` |
+| `a.go` | `13` | `200` |
+| `b.go` | `40` | `800` |
+| `b.go` | `49` | `200` |
+| `b.go` | `50` | `500` |
+| `b.go` | `51` | `100` |
+
+Для того, чтобы расставить global heat level, нужно отсортировать все значения по убыванию и взять первые N, которые попадают под threshold. Допустим, threshold=0.5, тогда мы берём первые 3 записи.
+
+| file | line | total value |
+|---|---|---|
+| +`b.go`+ | +`40`+ | +`800`+ |
+| +`b.go`+ | +`50`+ | +`500`+ |
+| +`a.go`+ | +`10`+ | +`300`+ |
+| `a.go` | `13` | `200` |
+| `b.go` | `49` | `200` |
+| `b.go` | `51` | `100` |
+
+Если мы возьмём threshold=0.9, то в результат попадут уже 5 записей: 800, 500, 300, 200, 200.
+
+Когда мы будем строить категории global уровня, то они будут распределены очевидным образом:
+
+| file | line | total value | global heat level |
+|---|---|---|---|
+| `b.go` | `40` | `800` | 5 |
+| `b.go` | `50` | `500` | 4 |
+| `a.go` | `10` | `300` | 3 |
+| `a.go` | `13` | `200` | 2 |
+| `b.go` | `49` | `200` | 1 |
+| `b.go` | `51` | `100` | 0 |
+
+Для локальных уровней мы берём срезы внутри файла вместо всех семплов сразу.
 
 ## gogrep + heatmap
 
@@ -221,4 +332,3 @@ $ gogrep --heatmap cpu.out . \
 Использование `$$.IsHot()` означало бы, что любой семпл из профиля на пути от `var $b bytes.Buffer` до `return $b.String()` сделал бы матч успешный. Использование `$b.IsHot()` было бы привязано к первой декларации, так как позиция матч переменной всегда связывается с первым совпадением.
 
 Если мы будем смотреть в профиль, то можем найти там `bytes.(*Buffer).String()` и понять, что это горячая функция. Далее мы можем посмотреть стеки вызовов и найти пути, на которых мы проводим больше всего времени (pprof может даже графы построить прямо в браузере). Но что сделать довольно сложно - это соединить информацию из профиля с какими-то более сложными кейсами. В случае выше по шаблону поиска мы понимаем, что для этого случая есть вполне понятное решение - взять `strings.Builder`.
-
