@@ -75,6 +75,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date |
 |---|---|
+| [Используем SQLite в KPHP и PHP через FFI](https://habr.com/ru/post/653677/) | March 11, 2022 |
 | [Анализируем bound checks в Go по CPU профилю](https://habr.com/ru/post/651203/) | February 13, 2022 |
 | [Ускоряем hugo на 20% простым изменением в пакете reflect](https://habr.com/ru/post/645727/) | January 14, 2022 |
 | [profile-guided поиск по коду](https://habr.com/ru/post/596755/) | December 21, 2021 |
