@@ -9,6 +9,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date | Location |
 |---|---|---|
+| [quasigo interpreter](talks/2022-14-Apr-moscow) | Apr 14, 2022 | Moscow (Russia) |
 | [profile-guided code analysis](talks/2022-5-Feb-kazan) | Feb 5, 2022 | Kazan (Russia) |
 | [KPHP FFI](talks/2021-14-Nov-innopolis) | Nov 14, 2021 | Innopolis (Russia) |
 | [Parsing and Go](talks/2021-5-Aug-online) | Aug 5, 2021 | Online (Russia) |
