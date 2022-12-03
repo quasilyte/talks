@@ -77,6 +77,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date |
 |---|---|
+| [Улучшенный benchstat для оптимизирующих гоферов](https://habr.com/ru/post/703294/) | December 3, 2022 |
 | [Текстовые шаблонизаторы и их реализация](https://habr.com/ru/company/vk/blog/698532/) | November 29, 2022 |
 | [Встраиваем Lua в PHP через FFI](https://habr.com/ru/company/vk/blog/681400/) | August 23, 2022 |
 | [Используем SQLite в KPHP и PHP через FFI](https://habr.com/ru/post/653677/) | March 11, 2022 |
