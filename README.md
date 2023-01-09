@@ -9,6 +9,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date | Location |
 |---|---|---|
+| [Go gamedev patters](https://speakerdeck.com/quasilyte/go-gamedev-patterns) [:movie_camera:](https://www.youtube.com/watch?v=YWx80V_ccYk) | December, 2022 | Online (International) |
 | [Working with CPU profiles data](talks/2022-11-May-online) | May 11, 2022 | Online (Russia) |
 | [quasigo interpreter](talks/2022-14-Apr-moscow) | Apr 14, 2022 | Moscow (Russia) |
 | [profile-guided code analysis](talks/2022-5-Feb-kazan) | Feb 5, 2022 | Kazan (Russia) |
