@@ -55,6 +55,8 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date |
 |---|---|
+| [Game development in Go: Ebitengine shaders](https://quasilyte.dev/blog/post/ebitengine-shaders/) | May 3, 2023 |
+| [A simpler scheme than SSA](https://quasilyte.dev/blog/post/naive-ssa-alternative/) | March 26, 2022 |
 | [Profile-guided code search](https://quasilyte.dev/blog/post/profile-guided-gogrep/) | December 21, 2021 |
 | [YAML is your JSON5](https://quasilyte.dev/blog/post/yaml5/) | September 10, 2020 |
 | [gogrep: structural search and replace](https://quasilyte.dev/blog/post/gogrep/) | June 8, 2020 |
