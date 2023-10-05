@@ -80,6 +80,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date |
 |---|---|
+| [Битва за производительность: SparseMap vs GenerationsMap](https://habr.com/ru/articles/762984/) | September 23, 2023 |
 | [Разработка игр на Go: шейдеры](https://habr.com/ru/articles/730848/) | April 22, 2023 |
 | [Улучшенный benchstat для оптимизирующих гоферов](https://habr.com/ru/post/703294/) | December 3, 2022 |
 | [Текстовые шаблонизаторы и их реализация](https://habr.com/ru/company/vk/blog/698532/) | November 29, 2022 |
