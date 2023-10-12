@@ -74,7 +74,6 @@ My slides for public talks, workshop materials plus articles in both English and
 | [Path to convenient C FFI in Go](https://quasilyte.dev/blog/post/cgo-funcall/) | August 18, 2017 |
 | [RISC-V: custom instruction and its simulation](https://quasilyte.dev/blog/post/riscv32-custom-instruction-and-its-simulation/) | June 21, 2017 |
 | [Emacs Lisp multi return values](https://quasilyte.dev/blog/post/elisp-multi-return-values/) | May 19, 2017 |
-| [C broken defaults](https://quasilyte.dev/blog/post/c-broken-defaults/) | December 26, 2016 |
 
 ### [habr.com](https://habr.com/ru/users/quasilyte/posts/) (rus)
 
