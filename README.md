@@ -53,6 +53,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date |
 |---|---|
+| [Zero alloc pathfinding in Go](https://quasilyte.dev/blog/post/pathfinding/) | October 13, 2023 |
 | [Generations-based array](https://quasilyte.dev/blog/post/gen-map/) | September 22, 2023 |
 | [Game development in Go: Ebitengine shaders](https://quasilyte.dev/blog/post/ebitengine-shaders/) | May 3, 2023 |
 | [A simpler scheme than SSA](https://quasilyte.dev/blog/post/naive-ssa-alternative/) | March 26, 2022 |
