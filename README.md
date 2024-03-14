@@ -80,6 +80,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date |
 |---|---|
+| [Делаем RPG на Go: часть 0.5](https://habr.com/ru/articles/799497/) | March 12, 2024 |
 | [Делаем RPG на Go: часть 0](https://habr.com/ru/articles/791192/) | February 3, 2024 |
 | [Самый быстрый поиск пути на Go без аллокаций и СМС](https://habr.com/ru/articles/766882/) | October 11, 2023 |
 | [Битва за производительность: SparseMap vs GenerationsMap](https://habr.com/ru/articles/762984/) | September 23, 2023 |
