@@ -6,6 +6,7 @@ My slides for public talks, workshop materials plus articles in both English and
 
 | Topic | Date | Location |
 |---|---|---|
+| [Go gamedev: XM music](talks/2024-27-Feb-tbilisi) | February, 2024 | Tbilisi (Georgia) |
 | [Zero alloc pathfinding](https://speakerdeck.com/quasilyte/zero-alloc-pathfinding) [:movie_camera:](https://www.youtube.com/watch?v=X8C-R-jDkG4) | September 27, 2023 | Online |
 | [Ebitengine Ecosystem Overview](https://speakerdeck.com/quasilyte/ebitengine-ecosystem-overview) [:movie_camera:](https://www.youtube.com/watch?v=0Fd_Ijku9Sc) | January 31, 2023 | Online (Russia) |
 | [Go gamedev patters](https://speakerdeck.com/quasilyte/go-gamedev-patterns) [:movie_camera:](https://www.youtube.com/watch?v=YWx80V_ccYk) | December, 2022 | Online (International) |
